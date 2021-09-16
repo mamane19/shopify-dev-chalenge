@@ -1,0 +1,18 @@
+{
+    "defaultSeverity": "erro",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "rules": {
+        "trailing-coma": [
+            false
+        ],
+        "no-console": [
+            false
+        ],
+       "no-trailing-whitespace": [
+            false
+        ]
+    },
+    "jsRules": {}
+}
